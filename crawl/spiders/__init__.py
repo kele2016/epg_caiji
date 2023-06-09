@@ -105,10 +105,10 @@ __all__ = ['get_epgs_4gtv',
            'get_epgs_viu',
            'get_epgs_chuanliu',
            'get_epgs_mytvsuper',
-           'get_epgs_gxntv,
-            'epg_funcs',
+           'get_epgs_gxntv',
+           'epg_funcs',
            'func_args',
-           'epg_func',
+           'epg_func'
            ]
 
 
